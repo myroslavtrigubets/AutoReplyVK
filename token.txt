@@ -1,0 +1,1 @@
+http://oauth.vk.com/authorize?response_type=token&client_id=3213852&scope=photos,friends,offline,wall,messages,status,doc,audio
