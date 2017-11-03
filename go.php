@@ -1,11 +1,9 @@
-﻿<?php
-
+<?php
 require_once 'ApiVK.php';
 require_once 'config.php';
 require_once 'Answer.php';
 
 while (true) {
-
 	sleep(2);
     $go = new ApiVK($config['token']);
     $answer = new Answer();
